@@ -1,0 +1,6 @@
+framework module HXHttpSign {
+  umbrella header "HXHttpSign.h"
+
+  export *
+  module * { export * }
+}
